@@ -22,6 +22,7 @@ header{
     justify-content: center;
     align-items: center;
     cursor: pointer;
+    position: relative;
 }
 #redesSocias{
     padding: 250% 0%;
@@ -66,4 +67,33 @@ header{
 .textoCinza {
     color: rgba(0, 0, 0, 0.42);
     font-weight: 400;
+}
+
+
+#check { position: absolute;
+left: 50%;
+top: 50%;
+transform: translate(-50%,-50%);
+width: 30px;
+z-index: 99;
+height: 30px;
+opacity: 0;
+}
+
+aside { position: fixed;
+width: 270px;
+height: 100vh;
+background-color: white;
+top: 0;
+transition: 0.4s;
+left: -270px;
+text-decoration: none;
+color: #b2b2b2;}
+
+#check:checked~aside { left: 0;}
+
+.menuu{
+    font-weight: 600;
+    color: #b2b2b2;
+    text-decoration: none;
 }
