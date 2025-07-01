@@ -93,89 +93,89 @@ header{
 #img1 {
     grid-column: 1 / span 1;
     grid-row: 1 / span 4;
-    background-image: url(imagens/1blog.jpg);
+    background-image: url(1blog.jpg);
 }
 
 #img2 {
     grid-column: 2 / span 1;
     grid-row: 1 / span 2;
-    background-image: url(imagens/2blog.jpg);
+    background-image: url(2blog.jpg);
 }
 
 #img3 {
     grid-column: 3 / span 1;
     grid-row: 1 / span 4;
-    background-image: url(imagens/3blog.jpg);
+    background-image: url(3blog.jpg);
 }
 
 #img4 {
     grid-column: 4 / span 1;
     grid-row: 1 / span 3;
-    background-image: url(imagens/4blog.jpg);
+    background-image: url(4blog.jpg);
 }
 
 #img5 {
     grid-column: 5 / span 1;
     grid-row: 1 / span 4;
-    background-image: url(imagens/5blog.jpg);
+    background-image: url(5blog.jpg);
 }
 
 #img6 {
     grid-column: 1 / span 1;
     grid-row: 5 / span 2;
-    background-image: url(imagens/6blog.jpg);
+    background-image: url(6blog.jpg);
 }
 
 #img7 {
     grid-column: 2 / span 1;
     grid-row: 3 / span 3;
-    background-image: url(imagens/7blog.jpg);
+    background-image: url(7blog.jpg);
 }
 
 #img8 {
     grid-column: 3 / span 1;
     grid-row: 5 / span 3;
-    background-image: url(imagens/8blog.jpg);
+    background-image: url(8blog.jpg);
 }
 
 #img9 {
     grid-column: 4 / span 1;
     grid-row: 4 / span 2;
-    background-image: url(imagens/9blog.jpg);
+    background-image: url(9blog.jpg);
 }
 
 #img10 {
     grid-column: 5 / span 1;
     grid-row: 5 / span 2;
-    background-image: url(imagens/10blog.jpg);
+    background-image: url(10blog.jpg);
 }
 
 #img11 {
     grid-column: 1 / span 1;
     grid-row: 7 / span 3;
-    background-image: url(imagens/11blog.jpg);
+    background-image: url(11blog.jpg);
 }
 
 #img12 {
     grid-column: 2 / span 1;
     grid-row: 6 / span 4;
-    background-image: url(imagens/12blog.jpg);
+    background-image: url(12blog.jpg);
 }
 
 #img13 {
     grid-column: 3 / span 1;
     grid-row: 8 / span 2;
-    background-image: url(imagens/13blog.jpg);
+    background-image: url(13blog.jpg);
 }
 
 #img14 {
     grid-column: 4/ span 1;
     grid-row: 6 / span 4;
-    background-image: url(imagens/14blog.jpg);
+    background-image: url(14blog.jpg);
 }
 
 #img15 {
     grid-column: 5/ span 1;
     grid-row: 7 / span 3;
-    background-image: url(imagens/15blog.jpg);
+    background-image: url(15blog.jpg);
 }
