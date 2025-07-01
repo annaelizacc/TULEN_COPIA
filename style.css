@@ -49,14 +49,14 @@ header{
     transition: 0.5s;
 }
 #calango{
-    background-image: url(imagens/5.jpg.webp);
+    background-image: url(5.jpg.webp);
     background-size: cover;
     background-position: 20% center;
     background-repeat: no-repeat;
     flex-grow: 7;
 }
 #mulher{
-    background-image: url(imagens/4.jpg.webp);
+    background-image: url(4.jpg.webp);
     background-size: cover;
     background-position: 20% center;
     background-color: rgba(0,0,0,0.4);
@@ -64,7 +64,7 @@ header{
     background-repeat: no-repeat;
 }
 #cachorro{
-    background-image: url(imagens/3.jpg.webp);
+    background-image: url(3.jpg.webp);
     background-size: cover;
     background-position: 20% center;
     background-color: rgba(0,0,0,0.4);
@@ -72,7 +72,7 @@ header{
     background-repeat: no-repeat;
 }
 #mar{
-    background-image: url(imagens/2.jpg.webp);
+    background-image: url(2.jpg.webp);
     background-size: cover;
     background-position: 20% center;
     background-color: rgba(0,0,0,0.4);
@@ -80,7 +80,7 @@ header{
     background-repeat: no-repeat;
 }
 #carro{
-    background-image: url(imagens/1.jpg.webp);
+    background-image: url(1.jpg.webp);
     background-size: cover;
     background-position: 20% center;
     background-color: rgba(0,0,0,0.4);
